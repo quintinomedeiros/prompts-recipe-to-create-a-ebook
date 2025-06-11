@@ -8,7 +8,7 @@
 <p align="center">
 <img 
     src="./assets/ebook_excel_big_data.jpg"
-    width="400"  
+    width="200"  
 />
 </p>
 
@@ -22,7 +22,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 Segue link do ebook:
 
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook_excel_big_data.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/quintinomedeiros/prompts-recipe-to-create-a-ebook/blob/main/output/ebook_excel_big_data.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
